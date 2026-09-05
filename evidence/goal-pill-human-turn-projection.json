@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "projection": {
+    "goalStatus": "active",
+    "sessionStatus": "running",
+    "continuation": {
+      "state": "blocked",
+      "reason": "human_turn_running"
+    }
+  },
+  "expectedUiState": "Waiting",
+  "beforeUiState": "Running header with Blocked goal pill",
+  "afterUiState": "Running header with Waiting goal pill"
+}
