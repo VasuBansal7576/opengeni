@@ -10,5 +10,13 @@
   },
   "expectedUiState": "Waiting",
   "beforeUiState": "Running header with Blocked goal pill",
-  "afterUiState": "Running header with Waiting goal pill"
+  "afterUiState": "Running header with Waiting goal pill",
+  "captures": {
+    "before": "goal-pill-human-turn-before.jpg",
+    "after": "goal-pill-human-turn-after.jpg"
+  },
+  "sha256": {
+    "before": "206bb293f4234db943a67d23897f73ad44bf598a782535701942581ba42b5db5",
+    "after": "6b5244972239c054299a6a55de75b24b120043b61ad0beb6128a6f95817ebb77"
+  }
 }
