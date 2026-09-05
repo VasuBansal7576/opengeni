@@ -1,7 +1,7 @@
 # API archive-reference restoration evidence
 
 Baseline: OpenGeni b4575cc.
-Patched source: b13c8d5, fix(api): restore object-backed workspace archives.
+Patched source: bd51aa5, including formatting of the archive-storage forwarding.
 
 The before and after screenshots render the complete output of the same desired-success test.
 The test fails on the baseline and passes with the patch.
